@@ -2,9 +2,9 @@
 
 只有**測謊自動作答**和**自動回覆**、不含掛機腳本的獨立小工具。
 
-**v1.4.11 更新內容**｜[下載 ZIP](https://github.com/tiger0904/pikapang-guard-downloads/releases/download/V1.4.11/pikapang_guard_v1.4.11.zip)｜[完整更新說明](https://github.com/tiger0904/pikapang-guard-downloads/releases/tag/V1.4.11)
+**v1.4.12 更新內容**｜[下載 ZIP](https://github.com/tiger0904/pikapang-guard-downloads/releases/download/V1.4.12/pikapang_guard_v1.4.12.zip)｜[完整更新說明](https://github.com/tiger0904/pikapang-guard-downloads/releases/tag/V1.4.12)
 
-新增適用各個第三方中轉站的「測試反應速度…」工具（實測看圖回應時間與相容性，並支援一鍵套用最快模型；對話測試同步顯示回覆耗時）；同時修正自動回覆四項實機問題（底部已回覆不重回舊句與短句漏字去重、廣播洗版降低誤作廢、自家 4 字名漏末字與裝備浮窗過濾、送出後快速確認提速）。
+同步排除半透明天空小地圖頂端按鈕列閃爍與自動重定位 1 像素誤差造成的「小地圖名稱已確認改變」誤報，並統一所有自動重定位流程維持「含地圖名稱外框」與補齊座標失讀裁切型態標註，讓長時間背景監看測謊與來人提醒更穩定。
 
 請點上方「下載 ZIP」或到右邊的 **[Releases](https://github.com/tiger0904/pikapang-guard-downloads/releases/latest)** 下載最新版 zip，解壓後在 `pikapang_guard.exe` 上按右鍵 →「以系統管理員身分執行」。
 
